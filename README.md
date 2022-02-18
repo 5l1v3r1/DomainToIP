@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonre&label=Profile%20views&color=0e75b6&style=flat" alt="anonre" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonre" alt="anonre" /></a> </p>
-
 STEP BY STEP
 1. git clone < https://github.com/anonre/domaintoip.git >
 2. run the program with the following command :
